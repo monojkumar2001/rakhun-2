@@ -379,7 +379,7 @@ const Mint = () => {
   return (
     <div className="mint cpy-8">
         <div className="container">
-            <div className="mint_wrapper row gap-5">
+            <div className="mint_wrapper row gap-5 d-flex align-items-center justify-content-center ">
                <div className="mint_wrapper_left col-lg-6 col-md-12 " data-aos="fade-top" data-aos-duration="1000" data-aos-delay="1">
                     <img src="../assets/img/5mint.gif" alt=""/>
                </div>
@@ -404,6 +404,12 @@ const Mint = () => {
                         </div>
                         <div className="mint_conunt d-flex justify-content-between">
                             <div className="conunt_box d-flex">
+                            <button className='custom-btn'  onClick={() => {
+                          if (mintQuantity > 1) {
+                            setMintQuantity(mintQuantity - 1);
+                          }
+                        }} >-</button>
+                        <p className="number">{mintQuantity}</p>
                             <button
                         className="custom-btn"
                         onClick={() => {
@@ -421,12 +427,8 @@ const Mint = () => {
                             }
                           }
                         }}>+</button>
-                                    <p className="number">{mintQuantity}</p>
-                                    <button className='custom-btn'  onClick={() => {
-                          if (mintQuantity > 1) {
-                            setMintQuantity(mintQuantity - 1);
-                          }
-                        }} >-</button>
+                                    
+                              
                             </div>
                             <p>
                       {freesale === true && presale === false

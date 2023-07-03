@@ -1036,6 +1036,9 @@ li.nav-list .social-ul {
 
 
 }
+.logo_icons img {
+    width: 100px;
+}
 .share_list.last{
     display: none;
 }
@@ -1130,6 +1133,9 @@ li.nav-list .social-ul {
 /* <==========share holder section end==============> */
 
 /* <=============MINT Section start==============> */
+.mint{
+    padding: 150px 0 100px 0;
+}
 .mint_wrapper_left{
     width:500px;
     transition: 0.4s;
@@ -1170,7 +1176,7 @@ transform: scale(1.05) !important;
 .mint_price{
     text-align:center;
     align-items: center;
-    padding: 30px 20px;
+    padding: 15px 20px;
     margin-bottom: 20px;
     background: rgba(217, 217, 217, 0.1);
     border: 2px solid rgba(255, 255, 255, 0.3);
@@ -1226,7 +1232,7 @@ transform: scale(1.05) !important;
 }
 @media screen and (max-width:992px) {
     .mint_wrapper_right{
-        margin-top: 50px;
+        margin-top: 0px;
     }
     .mint_wrapper_right .mint_title {
         text-align: center;

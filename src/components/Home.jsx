@@ -75,7 +75,7 @@ function Home() {
           <h2 className=" title2">SHAPING THE COURSE OF GOLF </h2>
           <h2 className="title3">MINTING – TBC</h2>
           <div className="hero_btn-2">
-                <a  href="https://discord.com/channels/939666076726333460/939666081163935781" target="_blank" rel="noreferrer"><img src="../assets/img/hero/discord.png" alt="" className="mobile-btnss"/>join discord</a>
+                <a  href="https://discord.com/invite/PXXTjYuNym" target="_blank" rel="noreferrer"><img src="../assets/img/hero/discord.png" alt="" className="mobile-btnss"/>join discord</a>
             </div>
           </div>
           
@@ -83,7 +83,7 @@ function Home() {
                <img className="hero_img" src="../assets/img/hero/1.webp" alt="nonchalantbanditnft" />
             </div>
             <div className="hero_btn">
-                <a  href="https://discord.com/channels/939666076726333460/939666081163935781" target="_blank" rel="noreferrer"><img src="../assets/img/hero/discord.png" alt=""/>join discord</a>
+                <a  href="https://discord.com/invite/PXXTjYuNym" target="_blank" rel="noreferrer"><img src="../assets/img/hero/discord.png" alt=""/>join discord</a>
             </div>
           {/* <img src="assets/img/hero/1.png" alt="" className="hero-img" /> */}
         </div>
@@ -790,7 +790,7 @@ function Home() {
                                 {/* <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p> */}
                             </div>
                             <div className="join_btn">
-                                <a  href="https://discord.com/channels/939666076726333460/939666081163935781" target="_blank" rel="noreferrer"><img src="../assets/img/discord.png" alt=""/>join discord</a>
+                                <a  href="https://discord.com/invite/PXXTjYuNym" target="_blank" rel="noreferrer"><img src="../assets/img/discord.png" alt=""/>join discord</a>
                             </div>
                         </div>
                         <div className="join_right col-lg-4">

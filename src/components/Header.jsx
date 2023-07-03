@@ -107,7 +107,7 @@ function Header() {
                   </a>
                   </li>
                   <li>
-                    <a href=" https://discord.com/channels/939666076726333460/939666081163935781" target="_blank" rel="noreferrer" className="social-link">
+                    <a href="https://discord.com/invite/PXXTjYuNym" target="_blank" rel="noreferrer" className="social-link">
                       <img src="assets/img/icon/3.svg" alt="" />
                     </a>
                     </li>
@@ -181,7 +181,7 @@ function Header() {
                           </a>
                         </li>
                         <li>
-                          <a href=" https://discord.com/channels/939666076726333460/939666081163935781" target="_blank" rel="noreferrer" className="social-link">
+                          <a href="https://discord.com/invite/PXXTjYuNym" target="_blank" rel="noreferrer" className="social-link">
                             <img src="assets/img/icon/3.svg" alt="" />
                           </a>
                         </li>
