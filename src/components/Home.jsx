@@ -716,29 +716,14 @@ function Home() {
                         </div>
                         <div className="share_list">
                             <div className="share_item">
-                                <img src="assets/img/shareholder/8.svg" alt="" />
-                               <div className="share_list_title">
-                                <p>Ryan Evans </p>
-                               </div>
-                            </div>
-                            <p>DP World Tour & Challenge Tour Golfer</p>
-                           
-                        </div>
-                        <div className="share_list">
-                            <div className="share_item">
-                                {/* <div className="white">
-
-                                </div> */}
                                 <img src="assets/img/shareholder/11.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Neil Dawson</p>
                                </div>
                             </div>
                             <p>Me & My Golf</p>
-                           
                         </div>
-                        <div className="share_list last">
-                        
+                        <div className="share_list ">
                             <div className="share_item">
                                 <img src="assets/img/shareholder/9.svg" alt="" />
                                <div className="share_list_title">
@@ -746,27 +731,8 @@ function Home() {
                                </div>
                             </div>
                             <p>INVESTOR</p>
-                           
-                       
-                           
                         </div>
-                       
-                        
-                       
                     </div>
-                    <div className="shareholder_last">
-                    <div className="share_list">
-                            <div className="share_item">
-                                <img src="assets/img/shareholder/9.svg" alt="" />
-                               <div className="share_list_title">
-                                <p>Justin Jenk   </p>
-                               </div>
-                            </div>
-                            <p>INVESTOR</p>
-                           
-                        </div>
-
-                        </div>
                 </div>
             </div>
         </section>
