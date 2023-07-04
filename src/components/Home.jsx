@@ -209,10 +209,10 @@ function Home() {
                             <div className="benifits_wrapper_right_items row">
                                 <div className="col-lg-12 col-md-12 d-flex ">
                                     <div>
-                                        <img  src="../assets/img/benifits/1.png" alt="" />
+                                        <img  src="assets/img/benifits/1.png" alt="" />
                                     </div>
                                     <div>
-                                        <img  src="../assets/img/benifits/2.png" alt="" />
+                                        <img  src="assets/img/benifits/2.png" alt="" />
                                     </div>
                                     <div>
                                         <img className="first_img" src="../assets/img/benifits/3.png" alt="" />
@@ -221,24 +221,24 @@ function Home() {
                                 </div>
                                 <div className="col-lg-12 col-md-12 d-flex">
                                     <div>
-                                        <img  src="../assets/img/benifits/4.png" alt="" />
+                                        <img  src="assets/img/benifits/4.png" alt="" />
                                     </div>
                                     <div>
-                                        <img  src="../assets/img/benifits/5.png" alt="" />
+                                        <img  src="assets/img/benifits/5.png" alt="" />
                                     </div>
                                     <div>
-                                        <img  src="../assets/img/benifits/6.png" alt="" />
+                                        <img  src="assets/img/benifits/6.png" alt="" />
                                     </div>
                                 </div>
                                 <div className="col-lg-12 col-md-12 d-flex">
                                     <div>
-                                        <img  src="../assets/img/benifits/7.png" alt="" />
+                                        <img  src="assets/img/benifits/7.png" alt="" />
                                     </div>
                                     <div>
-                                        <img  src="../assets/img/benifits/8.png" alt="" />
+                                        <img  src="assets/img/benifits/8.png" alt="" />
                                     </div>
                                     <div>
-                                        <img className="last_img"  src="../assets/img/benifits/9.png" alt="" />
+                                        <img className="last_img"  src="assets/img/benifits/9.png" alt="" />
                                     </div>
                                 </div>
                             </div>
@@ -330,7 +330,7 @@ function Home() {
                             <div className="phase_title1 phase_title2 text-end">
                                 <h2 >PHASE 02</h2>
                                     <div className="phase_disc_left_img2 d-flex justify-content-center">
-                                        <img src="../assets/img/phase2.svg" alt="" width={300} height={300}/>
+                                        <img src="assets/img/phase2.svg" alt="" width={300} height={300}/>
                                         <div className='phase_box_left_height'>
                                             <div className="charts-container">
                                                 <div className="chart chart2">
@@ -490,19 +490,19 @@ function Home() {
                                 
                                 <div className="work_details_list"  >
                                     <div className="work_logo">
-                                        <img src="../assets/img/logo.png" alt="" />
+                                        <img src="assets/img/logo.png" alt="" />
                                     </div>
                                     <p>Own 1 NFT<span className="top">*</span> from any collection  – <span>Play the course with a guest, once a year, every year, for 10 years from the date of golf club opening.</span></p>
                                 </div>
                                 <div className="work_details_list"  >
                                     <div className="work_logo">
-                                        <img src="../assets/img/logo.png" alt="" />
+                                        <img src="assets/img/logo.png" alt="" />
                                     </div>
                                     <p>Own an NFT<span className="top">**</span> from any two collections  -<span> Play the course with a guest, twice a year, every year, for 10 years from the date of golf club opening. </span></p>
                                 </div>
                                 <div className="work_details_list"  >
                                     <div className="work_logo">
-                                        <img src="../assets/img/logo.png" alt="" />
+                                        <img src="assets/img/logo.png" alt="" />
                                     </div>
                                     <p>Own an NFT<span className="top">***</span> from all three collections  –<span> Play the course with a guest, three times a year, every year, for 10 years from the date of golf club opening. You will also get the option to join the golf club as a full member (membership fees TBD).</span></p>
                                 </div>
@@ -583,11 +583,11 @@ function Home() {
                             <h2>Nonchalant Bandit Team</h2>
                         </div>
                         <div className="team_box ">
-                            <div className="team_box_left "  data-aos="fade-up" data-aos-duration="1000" data-aos-delay="5">
+                            <div className="team_box_left"  data-aos="fade-up" data-aos-duration="1000" data-aos-delay="5">
                                 <div className="team_box_item">
                                     <div className="team_member ">
                                         <div className="team_member_img">
-                                            <img src="../assets/img/team/2.png" alt="" />
+                                            <img src="assets/img/team/2.png" alt="" />
                                             <p>DML</p>
                                         </div>
                                     </div>
@@ -606,7 +606,7 @@ function Home() {
                                 <div className="team_box_item">
                                     <div className="team_member ">
                                         <div className="team_member_img">
-                                            <img src="../assets/img/team/1.png" alt="" />
+                                            <img src="assets/img/team/1.png" alt="" />
                                             <p>SKR</p>
                                         </div>
                                     </div>
@@ -643,7 +643,7 @@ function Home() {
                     <div className="share_box">
                         <div className="share_list">
                             <div className="share_item">
-                                <img src="../assets/img/shareholder/7.svg" alt="" />
+                                <img src="assets/img/shareholder/7.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Piers Ward</p>
                                </div>
@@ -653,7 +653,7 @@ function Home() {
                         </div>
                         <div className="share_list">
                             <div className="share_item">
-                                <img src="../assets/img/shareholder/6.svg" alt="" />
+                                <img src="assets/img/shareholder/6.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Andy Proudman </p>
                                </div>
@@ -663,7 +663,7 @@ function Home() {
                         </div>
                         <div className="share_list">
                             <div className="share_item">
-                                <img src="../assets/img/shareholder/3.svg" alt="" />
+                                <img src="assets/img/shareholder/3.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Charley Hull</p>
                                </div>
@@ -674,7 +674,7 @@ function Home() {
                         
                         <div className="share_list">
                             <div className="share_item">
-                              <img src="../assets/img/shareholder/2.svg" alt="" />
+                              <img src="assets/img/shareholder/2.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Ken Doherty</p>
                                </div>
@@ -684,7 +684,7 @@ function Home() {
                         </div>
                         <div className="share_list">
                             <div className="share_item">
-                                <img src="../assets/img/shareholder/1.svg" alt="" />
+                                <img src="assets/img/shareholder/1.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Angus MacDonald</p>
                                </div>
@@ -695,7 +695,7 @@ function Home() {
                         
                         <div className="share_list">
                             <div className="share_item">
-                                <img src="../assets/img/shareholder/10.svg" alt="" />
+                                <img src="assets/img/shareholder/10.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Matt Niedzwiecki</p>
                                </div>
@@ -706,7 +706,7 @@ function Home() {
                        
                         <div className="share_list">
                             <div className="share_item">
-                                <img src="../assets/img/shareholder/5.svg" alt="" />
+                                <img src="assets/img/shareholder/5.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Alex Comben</p>
                                </div>
@@ -716,7 +716,7 @@ function Home() {
                         </div>
                         <div className="share_list">
                             <div className="share_item">
-                                <img src="../assets/img/shareholder/8.svg" alt="" />
+                                <img src="assets/img/shareholder/8.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Ryan Evans </p>
                                </div>
@@ -729,7 +729,7 @@ function Home() {
                                 {/* <div className="white">
 
                                 </div> */}
-                                <img src="../assets/img/shareholder/11.svg" alt="" />
+                                <img src="assets/img/shareholder/11.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Neil Dawson</p>
                                </div>
@@ -740,7 +740,7 @@ function Home() {
                         <div className="share_list last">
                         
                             <div className="share_item">
-                                <img src="../assets/img/shareholder/9.svg" alt="" />
+                                <img src="assets/img/shareholder/9.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Justin Jenk </p>
                                </div>
@@ -757,7 +757,7 @@ function Home() {
                     <div className="shareholder_last">
                     <div className="share_list">
                             <div className="share_item">
-                                <img src="../assets/img/shareholder/9.svg" alt="" />
+                                <img src="assets/img/shareholder/9.svg" alt="" />
                                <div className="share_list_title">
                                 <p>Justin Jenk   </p>
                                </div>
@@ -795,7 +795,7 @@ function Home() {
                         </div>
                         <div className="join_right col-lg-4">
                             <div className="join_right_bg">
-                                <img src="../assets/img/join.png" alt="" />
+                                <img src="assets/img/join.png" alt="" />
                             </div>
                         </div>
                     </div>
@@ -821,7 +821,7 @@ function Home() {
                     <div className="faq_left  col-lg-6 col-md-12" >
                        <div className="faq_bg">
                         <div className="faq_icon">
-                                <img src="../assets/img/faq_icon.png" alt="" />     
+                                <img src="assets/img/faq_icon.png" alt="" />     
                             </div>
                             {/* <div className="faq_img">
                               

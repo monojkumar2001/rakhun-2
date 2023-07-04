@@ -41,22 +41,22 @@ export default function Slider() {
         style={{  width:"60%" }}
       >
         <SwiperSlide >
-        <div className="slider_img"><img src="../assets/img/slider/1.png" alt="" /></div>
+        <div className="slider_img"><img src="assets/img/slider/1.png" alt="" /></div>
         </SwiperSlide>
         <SwiperSlide>
-         <div className="slider_img"><img src="../assets/img/slider/2.png" alt="" /></div>
+         <div className="slider_img"><img src="assets/img/slider/2.png" alt="" /></div>
         </SwiperSlide>
         <SwiperSlide>
-        <div className="slider_img"><img src="../assets/img/slider/3.png" alt="" /></div>
+        <div className="slider_img"><img src="assets/img/slider/3.png" alt="" /></div>
         </SwiperSlide>
         <SwiperSlide>
-        <div className="slider_img"><img src="../assets/img/slider/4.png" alt="" /></div>
+        <div className="slider_img"><img src="assets/img/slider/4.png" alt="" /></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="slider_img"><img src="../assets/img/slider/5.png" alt="" /></div>
+          <div className="slider_img"><img src="assets/img/slider/5.png" alt="" /></div>
         </SwiperSlide>
         <SwiperSlide >
-        <div className="slider_img"><img src="../assets/img/slider/6.png" alt="" /></div>
+        <div className="slider_img"><img src="assets/img/slider/6.png" alt="" /></div>
         </SwiperSlide>
        
         
